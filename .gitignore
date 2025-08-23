@@ -5,3 +5,7 @@ riderModule.iml
 /_ReSharper.Caches/
 *.DotSettings.user
 Libs/
+*.vsidx
+.vs/NoDoubleTapSprint/v17/.suo
+.vs/NoDoubleTapSprint/v17/DocumentLayout.backup.json
+.vs/NoDoubleTapSprint/v17/DocumentLayout.json
