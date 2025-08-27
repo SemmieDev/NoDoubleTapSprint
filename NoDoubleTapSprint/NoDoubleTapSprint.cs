@@ -8,7 +8,7 @@ namespace NoDoubleTapSprint;
 public class NoDoubleTapSprint : ResoniteMod {
     public override string Name => "NoDoubleTapSprint";
     public override string Author => "SemmieDev";
-    public override string Version => "1.0.0";
+    public override string Version => "1.0.1";
     public override string Link => "https://github.com/SemmieDev/NoDoubleTapSprint";
 
     public override void OnEngineInit() {
