@@ -1,5 +1,6 @@
 ﻿using FrooxEngine;
 using HarmonyLib;
+using Renderite.Shared;
 using ResoniteModLoader;
 
 namespace NoDoubleTapSprint;
